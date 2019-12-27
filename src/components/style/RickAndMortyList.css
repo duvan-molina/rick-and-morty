@@ -1,0 +1,12 @@
+.RickAndMortyList-img img{
+  width: 100%;
+}
+
+.RickAndMortyList-info h1 {
+  font-size: 19px;
+  font-weight: 900;
+}
+
+.RickAndMortyList-info {
+  padding: 10px;
+}
